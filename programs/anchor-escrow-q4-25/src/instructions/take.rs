@@ -85,7 +85,7 @@ impl<'info> Take<'info> {
     }
 
     pub fn withdraw_and_close_vault(&mut self) -> Result<()> {
-        let signer_seeds = &[&[&[u8]]] = &[&[
+        let signer_seeds: &[&[&[u8]]] = &[&[
             b"escrow", 
             self.maker.to_account_info().key.as_ref(),
             &self.escrow.seed.to_le_bytes(),

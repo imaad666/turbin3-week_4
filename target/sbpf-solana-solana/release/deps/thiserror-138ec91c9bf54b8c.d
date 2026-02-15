@@ -1,0 +1,15 @@
+/Users/imaad/i/T/w4/target/sbpf-solana-solana/release/deps/libthiserror-138ec91c9bf54b8c.rmeta: /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/lib.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/aserror.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/display.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/provide.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/var.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/private.rs /Users/imaad/i/T/w4/target/sbpf-solana-solana/release/build/thiserror-ddad787bc0dc835a/out/private.rs
+
+/Users/imaad/i/T/w4/target/sbpf-solana-solana/release/deps/libthiserror-138ec91c9bf54b8c.rlib: /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/lib.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/aserror.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/display.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/provide.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/var.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/private.rs /Users/imaad/i/T/w4/target/sbpf-solana-solana/release/build/thiserror-ddad787bc0dc835a/out/private.rs
+
+/Users/imaad/i/T/w4/target/sbpf-solana-solana/release/deps/thiserror-138ec91c9bf54b8c.d: /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/lib.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/aserror.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/display.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/provide.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/var.rs /Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/private.rs /Users/imaad/i/T/w4/target/sbpf-solana-solana/release/build/thiserror-ddad787bc0dc835a/out/private.rs
+
+/Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/lib.rs:
+/Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/aserror.rs:
+/Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/display.rs:
+/Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/provide.rs:
+/Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/var.rs:
+/Users/imaad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.17/src/private.rs:
+/Users/imaad/i/T/w4/target/sbpf-solana-solana/release/build/thiserror-ddad787bc0dc835a/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/imaad/i/T/w4/target/sbpf-solana-solana/release/build/thiserror-ddad787bc0dc835a/out
